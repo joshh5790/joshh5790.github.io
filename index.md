@@ -1,5 +1,4 @@
 ![Professional Picture](ProfPic.jpg)
-
 Hi, I'm Joshua Ho, and I am a junior at the University of Illinois and am currently majoring in statistics and psychology, and considering a minor in philosophy. I am hoping to go to graduate school for clinical psychology in the future. I also have a really cute dog!
 
 ### Links
