@@ -3,8 +3,5 @@ title: Joshua Ho's Website
 theme: jekyll-theme-slate
 
 navbar-links:
-  About Me: ""
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "link or page"
+  Blog: "blog"
+
