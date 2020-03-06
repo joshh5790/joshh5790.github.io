@@ -2,4 +2,5 @@ title: Joshua Ho's Website
 theme: minima
 navbar-links:
   Blog: "blog"
-
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
