@@ -1,6 +1,5 @@
 # Name of website
 title: Joshua Ho's Website
-theme: jekyll-theme-slate
 
 navbar-links:
   Blog: "blog"
