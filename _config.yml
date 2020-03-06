@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Joshua Ho's Website
-show_downloads: true
-show_excerpts: true
+header_pages:
+- index.md
