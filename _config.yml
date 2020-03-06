@@ -1,4 +1,8 @@
 theme: minima
 title: Joshua Ho's Website
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
+
 header_pages:
 - index.md
