@@ -246,3 +246,5 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+theme: jekyll-theme-slate
