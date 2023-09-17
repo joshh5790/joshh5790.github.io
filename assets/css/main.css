@@ -2643,8 +2643,9 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
+			filter: brightness(90%);
 			margin: 0 0 1em 0;
-			width: 8em;
+			width: 6.5em;
 		}
 
 /* Footer */
